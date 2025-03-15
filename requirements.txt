@@ -1,0 +1,7 @@
+# Core Libraries
+numpy==1.23.5              # For handling motion capture data
+scikit-learn==1.2.2        # For KMeans clustering
+plotly==5.15.0             # For interactive 3D animations
+ipython==8.12.0            # For displaying animations in Jupyter Notebook
+torch==2.0.1
+transformers==4.30.2
